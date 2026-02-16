@@ -31,28 +31,28 @@ pip install numpy matplotlib qiskit qiskit-aer
 1. Universal Scaling Law :: Square Field (Figure 1)
    python jinx_square.py
 
-   #Evidence of the fundamental k^-1/2 harmonic signature (20-Qubit).
+   * Evidence of the fundamental k^-1/2 harmonic signature (20-Qubit).
 
 ----------------------------------------------------------------------
 
 2. Riemann Resonance Alignment (Figure 2)
    python riemann.py
 
-   #Visual correlation between Jinx peaks and the first 30 Zeta zeros.
+   * Visual correlation between Jinx peaks and the first 30 Zeta zeros.
 
 ----------------------------------------------------------------------
 
 3. The Millionaire Scan :: Prime Field (Figure 3)
    python millionaire_scan.py
 
-   #High-resolution analysis of 82,000+ primes at 2^20 states.
+   * High-resolution analysis of 82,000+ primes at 2^20 states.
 
 ----------------------------------------------------------------------
 
 4. Composite Triangulation :: Diagnostic Device (Figure 4)
    python diagdevice.py
 
-   #Real-time structural diagnostic tool for composite integers.
+   * Real-time structural diagnostic tool for composite integers.
 
    NOTE: To test custom integers, edit the p1, q1 or p2, q2
    variables directly inside diagdevice.py (lines 81-115).
