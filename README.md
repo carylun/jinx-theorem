@@ -55,8 +55,9 @@ pip install numpy matplotlib qiskit qiskit-aer
    python diagdevice.py
 
    #Real-time structural diagnostic tool for composite integer
-   #NOTE: To test custom integers, edit the p1, q1 or p2, q2 
-   #Variables directly inside diagdevice.py (lines 81-115).
+
+NOTE: To test custom integers, edit the p1, q1 or p2, q2 
+Variables directly inside diagdevice.py (lines 81-115).
 
    
 ### Experimental Results Summary ### 
