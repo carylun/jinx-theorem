@@ -54,11 +54,12 @@ pip install numpy matplotlib qiskit qiskit-aer
 4. Composite Triangulation :: Diagnostic Device (Figure 4)
    python diagdevice.py
 
-   Real-time structural diagnostic tool for composite integers.
-   NOTE: To test custom integers, edit the p1, q1 or p2, q2 
+   #Real-time structural diagnostic tool for composite integers.
+
+   NOTE: To test custom integers, edit the p1, q1 or p2, q2
    variables directly inside diagdevice.py (lines 81-115).
 
-   
+
 ### Experimental Results Summary ### 
 
 Table 1: Spectral scaling law validation. 
