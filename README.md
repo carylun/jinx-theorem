@@ -59,7 +59,6 @@ pip install numpy matplotlib qiskit qiskit-aer
 
 ### Experimental Results Summary ### 
 
-----------------------------------------------------------------------
 Table 1: Spectral scaling law validation. 
 
 Set                | Degree d | Predicted | Observed
@@ -67,7 +66,6 @@ Set                | Degree d | Predicted | Observed
 Perfect squares n^2| 2        | k^-1/2    | k^-0.48 +/- 0.02
 Perfect cubes n^3  | 3        | k^-1/3    | k^-0.34 +/- 0.03
 Prime Numbers      | --       | Irregular | 0.91 +/- 0.42
-----------------------------------------------------------------------
 
 
 ### Citation and Theory ### 
