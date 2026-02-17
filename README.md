@@ -1,4 +1,4 @@
-# The Jinx's Theorem: MAIN PYTHON SCRIPTS
+# The Jinx's Theorem: main python scripts
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18263783.svg)](https://doi.org/10.5281/zenodo.18263783)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
