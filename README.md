@@ -82,7 +82,7 @@ BibTeX:
   author={R{\'e}gent, Xavier J.},
   journal={Quantum Information Processing},
   year={2026},
-  note={In press}
+  note={Submitted}
 }
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
