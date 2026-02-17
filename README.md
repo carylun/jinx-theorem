@@ -30,23 +30,28 @@ To reproduce the results presented in the paper, ensure you have these dependenc
 
 pip install numpy matplotlib qiskit qiskit-aer
 
+____________________________________________________________________________
+
 1. Universal Scaling Law :: Square Field (Figure 1)
    python jinx_square.py
 
    * Evidence of the fundamental k^-1/2 harmonic signature (20-Qubit).
 
+____________________________________________________________________________
 
 2. Riemann Resonance Alignment (Figure 2)
    python riemann.py
 
    * Visual correlation between Jinx peaks and the first 30 Zeta zeros.
 
+____________________________________________________________________________
 
 3. The Millionaire Scan :: Prime Field (Figure 3)
    python millionaire_scan.py
 
    * High-resolution analysis of 82,000+ primes at 2^20 states.
 
+____________________________________________________________________________
 
 4. Composite Triangulation :: Diagnostic Device (Figure 4)
    python diagdevice.py
