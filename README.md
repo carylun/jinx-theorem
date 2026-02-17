@@ -5,7 +5,9 @@
 [![Paper](https://img.shields.io/badge/Paper-QIP%202026-blue)](https://link-to-paper-when-published)
 
 Official repository for the paper: 
+
 "The Jinx's Theorem: Spectral Fingerprinting of Arithmetic Structures Through Quantum Resonance" 
+
 by Xavier J. Régent
 
 
