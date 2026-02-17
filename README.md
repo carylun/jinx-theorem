@@ -75,13 +75,14 @@ This work is the applied counterpart of the Nitescence Theorem, which addresses 
 
 DOI (Preprint/Theorem): 10.5281/zenodo.15466643
 
-BibTeX:
-
+### BibTeX
+```
 @article{regent2026jinx,
   title={The Jinx's Theorem: Spectral Fingerprinting of Arithmetic Structures},
   author={R{\'e}gent, Xavier J.},
-  note={Submitted to Quantum Information Processing},
-  year={2026}
+  journal={Quantum Information Processing},
+  year={2026},
+  note={Submitted}
 }
-
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
