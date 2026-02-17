@@ -79,7 +79,7 @@ Prime Numbers      | --       | Irregular | 0.91 +/- 0.42
 
 This work is the applied counterpart of the Nitescence Theorem, which addresses the resolution of undecidability through structural relevance. 
 
-DOI (Preprint/Theorem): 10.5281/zenodo.15466643
+DOI (Preprint, Zenodo/CERN): 10.5281/zenodo.15466643
 
 ### BibTeX
 ```
