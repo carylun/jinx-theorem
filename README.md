@@ -80,9 +80,8 @@ BibTeX:
 @article{regent2026jinx,
   title={The Jinx's Theorem: Spectral Fingerprinting of Arithmetic Structures},
   author={R{\'e}gent, Xavier J.},
-  journal={Quantum Information Processing},
-  year={2026},
-  note={Submitted}
+  note={Submitted to Quantum Information Processing},
+  year={2026}
 }
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
