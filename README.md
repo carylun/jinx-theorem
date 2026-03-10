@@ -86,8 +86,7 @@ DOI (Preprint, Zenodo/CERN): 10.5281/zenodo.15466643
 @article{regent2026jinx,
   title={The Jinx's Theorem: Spectral Fingerprinting of Arithmetic Structures},
   author={R{\'e}gent, Xavier J.},
-  year={2026},
-  note={Submitted}
+  year={2026}
 }
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
