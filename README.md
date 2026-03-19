@@ -132,6 +132,6 @@ This work is part of the **XJR's Corpus**, built on three layers:
                from the Nitescence Theorem to Arithmetic Structure and Sieve Acceleration},
   author    = {R{\'e}gent, Xavier J.},
   year      = {2026},
-  note      = {In preparation}
-}
+  doi       = {10.5281/zenodo.19002607}
+ }
 ```
