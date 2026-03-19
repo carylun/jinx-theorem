@@ -7,7 +7,7 @@
 Official repository for:
 
 - *The Jinx's Theorem: Spectral Fingerprinting of Arithmetic Structures Through Quantum Resonance* — Xavier J. Régent (2026)
-- *From Undecidability to Cryptographic Efficiency: A Spectral Bridge from the Nitescence Theorem to Arithmetic Structure and Sieve Acceleration* — Xavier J. Régent (2026, in preparation)
+- *From Undecidability to Cryptographic Efficiency: A Spectral Bridge from the Nitescence Theorem to Arithmetic Structure and Sieve Acceleration* — Xavier J. Régent (2026)
 
 ---
 
@@ -111,11 +111,11 @@ Gain G(τ) > 1 proven (Theorem 5.3) and confirmed empirically.
 
 ### Citation and Theory
 
-This work is part of the **Cymalogy Corpus**, built on three layers:
+This work is part of the **XJR's Corpus**, built on three layers:
 
 1. **Nitescence Theorem** (logic) — DOI: [10.5281/zenodo.15466643](https://doi.org/10.5281/zenodo.15466643)
 2. **Jinx's Theorem** (spectral arithmetic) — DOI: [10.5281/zenodo.18930421](https://doi.org/10.5281/zenodo.18930421)
-3. **GNFS Spectral Bridge** (cryptographic applications) — in preparation (2026)
+3. **GNFS Spectral Bridge** (cryptographic applications) —  — DOI: [10.5281/zenodo.19002607](https://doi.org/10.5281/zenodo.19002607)
 
 ### BibTeX
 ```bibtex
